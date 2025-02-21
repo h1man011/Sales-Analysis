@@ -8,7 +8,7 @@ Sample Sales Data, Order Info, Sales, Customer, Shipping, etc., Used for Segment
 
 Originally Written by Maria Carina Roldán, Pentaho Community Member, BI consultant (Assert Solutions), Argentina. This work is licensed under the Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License. Modified by Gus Segura June 2014.
 
-**Business Question**
+**2.Business Question**
 
 Create a KPI banner showing Total Sales, Total Profit, Total Transaction, Average Sales, Quantity, Discount
 
@@ -39,7 +39,8 @@ Month to Month change in Sales
 
 
 
-**Insight**
+**III. Insight**
+
 
 In 2003, May(5th) had the least amount of sales, July(7th) had the best monthly sales.
 
