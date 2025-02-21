@@ -1,4 +1,4 @@
-![Screenshot 2025-02-21 181437](https://github.com/user-attachments/assets/93cea791-0bf1-4bdf-982e-1b4bbb3551f7)**[EXCEL] Sample-Sales-Data**
+**[EXCEL] Sample-Sales-Data**
 
 **I. Introduction**
 
