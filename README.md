@@ -1,7 +1,10 @@
-**[Excel] Sample Sales Data 
-**
+![Screenshot 2025-02-21 181437](https://github.com/user-attachments/assets/93cea791-0bf1-4bdf-982e-1b4bbb3551f7)**[EXCEL] Sample-Sales-Data**
+
+**I. Introduction**
+
+**1. Dataset**
 Sample Sales Data, Order Info, Sales, Customer, Shipping, etc., Used for Segmentation, Customer Analytics, Clustering and More. Inspired for retail analytics. This was originally used for Pentaho DI Kettle, But I found the set could be useful for Sales Simulation training. 
--- GUS SEGURA --
+**-- GUS SEGURA --**
 
 Originally Written by Maria Carina Roldán, Pentaho Community Member, BI consultant (Assert Solutions), Argentina. This work is licensed under the Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License. Modified by Gus Segura June 2014.
 
@@ -18,6 +21,23 @@ Find 10 Sales performances by each state
 Overall percentage of profit
 
 Month to Month change in Sales
+
+**II. Visualization**
+
+
+![Screenshot 2025-02-21 181437](https://github.com/user-attachments/assets/67462fe6-2f76-458f-a3b3-21c43a687eda)
+
+
+
+
+
+
+
+
+
+
+
+
 
 **Insight**
 
